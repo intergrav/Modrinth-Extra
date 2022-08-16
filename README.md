@@ -15,4 +15,4 @@ It's not currently released, but if you want to test it you can download the cod
 
 Currently, it has basically no features except for added animations. However, if you want to add your own features, feel free to open up a pull request!
 
-Alos, we are not affiliated with Rinth in any way.
+Also, we are not affiliated with Rinth in any way.
