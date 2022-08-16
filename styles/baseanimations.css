@@ -1,0 +1,60 @@
+/* This stylesheet adds animations to the *base* elements of Modrinth. NOT the added elements of ME. */
+/* Created by intergrav on 8/16/2022 */
+
+/* Keyframes */
+@keyframes appear {
+    0% {
+        opacity: 0%;
+    }
+
+    100% {
+        opacity: 100%;
+    }
+}
+
+@keyframes slide-in-right {
+    0% {
+        opacity: 0%;
+        transform: translateX(20%);
+    }
+
+    100% {
+        opacity: 100%;
+        transform: translateX(0);
+    }
+}
+
+@keyframes slide-in-left {
+    0% {
+        opacity: 0%;
+        transform: translateX(-20%);
+    }
+
+    100% {
+        opacity: 100%;
+        transform: translateX(0);
+    }
+}
+
+/*Everything transitions*/
+* {
+    animation: 0.25s ease-out 0s 1 appear;
+}
+
+/* Project site transitions*/
+.header, .extra-info {
+    animation: 0.25s ease-out 0s 1 slide-in-left;
+}
+
+.content {
+    animation: 0.25s ease-out 0s 1 slide-in-right;
+}
+
+/* Project browser transitions*/
+.project-card {
+    animation: 0.25s ease-out 0s 1 slide-in-right;
+}
+
+.filters-card {
+    animation: 0.25s ease-out 0s 1 slide-in-left;
+}
