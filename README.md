@@ -1,6 +1,14 @@
-# Modrinth-Extra
-Open source extension that adds extra animations and features to the Modrinth website.
+<div align="center">
+  <h1>Modrinth Extra</h1>
+  <p align="center">
+    Open source extension that adds extra features to the Modrinth website.
+  </p>
+</div>
 
-**Disclaimer: Currently there are only added animations, no features. However, feel free to add your own features with a PR!**
+## About
 
-Open source extension that adds extra animations and features to the Modrinth website.
+This is a small, open source extension that adds extra animations and features to the Modrinth website.
+
+It's not currently released, but if you want to test it you can download the code and load unpacked in your extensions tab.
+
+*Disclaimer: Currently, it has basically no features except for added animations. However, if you want to add your own features, feel free to open up a pull request!*
