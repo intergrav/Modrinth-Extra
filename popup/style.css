@@ -1,0 +1,10 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background-color: rgb(255, 209, 195);
+    margin: auto;
+    padding: 100;
+    max-width: 600px
+}
