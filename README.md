@@ -14,7 +14,7 @@
 
 This is a lightweight, open source extension for Chrome and Edge that adds extra animations and features to the Modrinth website.
 
-It's not currently released, but if you want to test it you can download the code and load unpacked in your extensions tab.
+Not available for Firefox currently. Sorry about that.
 
 Want to contribute to the project and add your own features? Check [this page](https://github.com/intergrav/Modrinth-Extra/wiki/How-to-Contribute) out.
 
