@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/intergrav/Modrinth-Extra">
-    <img src="branding/light/normal/icontextbig_48h.png" alt="Logo" height="42">
+    <img src="branding/dark/darker/icontextbig_48h.png" alt="Logo" height="42">
   </a>
   <br />
   <br />
