@@ -1,5 +1,9 @@
 <div align="center">
-  <h1>Modrinth Extra</h1>
+  <a href="https://github.com/intergrav/Modrinth-Extra">
+    <img src="branding/icontextbig_48h.png" alt="Logo" height="42">
+  </a>
+  <br />
+  <br />
   <p align="center">
     Open source extension that adds extra features to the Modrinth website.
   </p>
