@@ -1,4 +1,4 @@
-// Shows a dialog to the user that shows disclaimers and asks for help
+// Shows a page to the user with disclaimers
 
 chrome.runtime.onInstalled.addListener(function (object) {
     if (object.reason === chrome.runtime.OnInstalledReason.INSTALL) {

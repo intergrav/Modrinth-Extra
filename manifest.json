@@ -1,5 +1,4 @@
 {
-    "update_url": "https://clients2.google.com/service/update2/crx",
     "manifest_version": 3,
     "name": "Modrinth Extra",
     "version": "1.0.0",
@@ -25,7 +24,8 @@
                 "styles/baseanimations.css"
             ],
             "js": [
-                "scripts/credits.js"
+                "scripts/credits.js",
+                "scripts/popup.js"
             ]
         }
     ],
