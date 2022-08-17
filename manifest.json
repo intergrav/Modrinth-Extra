@@ -5,13 +5,13 @@
     "version": "1.0.0",
     "description": "Open source extension that adds extra animations and features to the Modrinth website.",
     "icons": {
-        "16": "branding/icons/iconsmall_16h.png",
-        "32": "branding/icons/iconsmall_32h.png",
-        "48": "branding/icons/iconbig_48h.png",
-        "64": "branding/icons/iconbig_64h.png",
-        "128": "branding/icons/iconbig_128h.png",
-        "256": "branding/icons/iconbig_256h.png",
-        "512": "branding/icons/iconbig_512h.png"
+        "16": "branding/iconsmall_16h.png",
+        "32": "branding/iconsmall_32h.png",
+        "48": "branding/iconbig_48h.png",
+        "64": "branding/iconbig_64h.png",
+        "128": "branding/iconbig_128h.png",
+        "256": "branding/iconbig_256h.png",
+        "512": "branding/iconbig_512h.png"
     },
     "host_permissions": [
         "https://api.modrinth.com/v2/*"
