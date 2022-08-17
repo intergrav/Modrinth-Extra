@@ -6,7 +6,7 @@ let creditsText = document.createElement("p")
 let creditsCopyrightText = document.createElement("p")
 
 creditsImage.src = chrome.runtime.getURL("branding/greyicontextbig_32h.png")
-creditsImage.height = "29"
+creditsImage.height = "30"
 
 creditsText.innerHTML = ' Modrinth Extra is <a target="_blank" href="https://github.com/intergrav/Modrinth-Extra" class="text-link"> open source</a>. '
 
