@@ -24,8 +24,7 @@
                 "styles/baseanimations.css"
             ],
             "js": [
-                "scripts/credits.js",
-                "scripts/popup.js"
+                "scripts/credits.js"
             ]
         }
     ],
