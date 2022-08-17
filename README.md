@@ -11,7 +11,7 @@
 
 ## About
 
-This is a lightweight, open source extension for Chrome that adds extra animations and features to the Modrinth website.
+This is a lightweight, open source extension for Chrome and Edge that adds extra animations and features to the Modrinth website.
 
 It's not currently released, but if you want to test it you can download the code and load unpacked in your extensions tab.
 
