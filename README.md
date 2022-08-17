@@ -22,4 +22,4 @@ Want to contribute to the project and add your own features? Check [this page](h
 
 Currently, it has basically no features except for added animations. However, if you want to add your own features, feel free to open up a pull request!
 
-Also, we are not affiliated with Rinth in any way.
+Also, we are not affiliated with Rinth Inc in any way.
