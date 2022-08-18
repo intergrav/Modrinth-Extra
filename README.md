@@ -14,8 +14,6 @@
 
 This is a lightweight, open source extension for Chrome and Edge that adds extra animations and features to the Modrinth website.
 
-Not compatible with Modrinth rewrite.
-
 Not available for Firefox currently. Sorry about that.
 
 Want to contribute to the project and add your own features? Check [this page](https://github.com/intergrav/Modrinth-Extra/wiki/How-to-Contribute) out.
@@ -24,4 +22,6 @@ Want to contribute to the project and add your own features? Check [this page](h
 
 Currently, it has basically no features except for added animations. However, if you want to add your own features, feel free to open up a pull request!
 
-Also, we are not affiliated with Rinth Inc in any way.
+Incompatible with Modrinth rewrite.
+
+We are not affiliated with Rinth Inc in any way.
